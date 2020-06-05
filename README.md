@@ -12,10 +12,8 @@ Aplicação Mobile desenvolvida em React Native. As funcionalidades são listar 
 * [Node.js](https://nodejs.org/en/docs/)
 
 ## Contato
-[Linked](https://www.linkedin.com/in/morgana-ribeiro-0a1042178/) 
-Gmail:**morgana.ifce.2019@gmail.com**
-
-## Contribuições
+* **[Linked]**(https://www.linkedin.com/in/morgana-ribeiro-0a1042178/) 
+* Gmail:**morgana.ifce.2019@gmail.com**
 
 ## Contribuição
 Contribuições são o que fazem a comunidade open source um lugar incrível para aprendizagem, inspirador e de criatividade. Qualquer contribuição que você fizer será **muito importante** ao projeto.
