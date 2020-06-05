@@ -12,5 +12,19 @@ Aplicação Mobile desenvolvida em React Native. As funcionalidades são listar 
 * [Node.js](https://nodejs.org/en/docs/)
 
 ## Contato
-[Linked](https://www.linkedin.com/in/morgana-ribeiro-0a1042178/) - **morgana.ifce.2019@gmail.com**
+[Linked](https://www.linkedin.com/in/morgana-ribeiro-0a1042178/) 
+Gmail:**morgana.ifce.2019@gmail.com**
+
+## Contribuições
+
+## Contribuição
+Contribuições são o que fazem a comunidade open source um lugar incrível para aprendizagem, inspirador e de criatividade. Qualquer contribuição que você fizer será **muito importante** ao projeto.
+
+1. Faça um Fork do projeto
+2. Crie uma Branch para sua Feature (`git checkout -b feature/FeatureIncrivel`)
+3. Adicione suas mudanças (`git add .`)
+4. Comite suas mudanças (`git commit -m 'Adicionando uma Feature incrível!`)
+5. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`)
+6. Abra um Pull Request
+
 
