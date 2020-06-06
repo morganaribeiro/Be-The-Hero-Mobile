@@ -1,6 +1,7 @@
 import React from 'react';
-import { View } from 'react-native';
 import Routes from './src/routes';
+import 'intl/locale-data/jsonp/pt-BR';
+
 
 // React - <div>, <span>, <p> e <h1> - cada uma dessas 
 // tags tem um significado semântico diferente na Web.
@@ -21,8 +22,6 @@ import Routes from './src/routes';
 */ 
 export default function App() {
   return (
-    <View>
       <Routes/>
-    </View>
-  );
+  )
 }

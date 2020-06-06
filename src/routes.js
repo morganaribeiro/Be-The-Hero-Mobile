@@ -12,7 +12,11 @@ export default function Routes(){
         // É essencial que o NatigationContainer fica em volta das rotas
         <NavigationContainer> 
             
-            <AppStack.Navigator screenOptions={{ headerShown: false }}>
+            <AppStack.Navigator 
+                initialRouteName="Incidents" 
+                screenOptions={{ 
+                    headerShown: false }}
+                >
                 <AppStack.Screen name='Incidents' component={Incidents} />
                 <AppStack.Screen name='Detail'component={Detail} />
             </AppStack.Navigator>
